@@ -10,6 +10,8 @@ package pe.edu.tecsup.lab03.cps.lab03.entities;
  */
 public class StudentService {
     public StudentService(){
+
         System.out.println("hola soy colaborador");
+
     }
 }

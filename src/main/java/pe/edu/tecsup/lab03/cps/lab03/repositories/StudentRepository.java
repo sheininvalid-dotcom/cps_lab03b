@@ -11,5 +11,6 @@ package pe.edu.tecsup.lab03.cps.lab03.repositories;
 public class StudentRepository {
     public StudentRepository(){
         System.out.println("hola soy colaborador");
-    }
+
+}
 }
