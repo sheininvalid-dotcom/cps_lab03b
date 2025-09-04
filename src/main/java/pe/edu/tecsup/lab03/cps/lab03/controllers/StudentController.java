@@ -10,6 +10,6 @@ package pe.edu.tecsup.lab03.cps.lab03.controllers;
  */
 public class StudentController {
    public StudentController(){
-       System.out.println("Hola soy colaborador");
+       System.out.println("Hola soy creador");
    }
 }
