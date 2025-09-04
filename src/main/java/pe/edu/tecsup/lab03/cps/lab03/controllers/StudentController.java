@@ -9,5 +9,7 @@ package pe.edu.tecsup.lab03.cps.lab03.controllers;
  * @author chboy
  */
 public class StudentController {
-    
+   public StudentController(){
+       System.out.println("Hola soy colaborador");
+   }
 }
