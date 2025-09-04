@@ -9,5 +9,7 @@ package pe.edu.tecsup.lab03.cps.lab03.services;
  * @author chboy
  */
 public class StudentEntity {
-    
+    public StudentEntity(){
+        System.out.println("Holaa soy colaborador");
+    }
 }
